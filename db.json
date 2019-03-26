@@ -1,17 +1,16 @@
-[
-  {
-    "id": 1,
-    "username": "tarling",
-    "password": "1234"
-  },
-  {
-    "id": 2,
-    "username": "mtralau",
-    "password": "1234"
-   },
-  {
-    "id": 3,
-    "username": "jthomas",
-    "password": "1234"
-   }
-]
+{
+  "user": [
+    { "id": 1, "username": "tarling", "password": "test" },
+    { "id": 2, "username": "mtralau", "password": "test" },
+    { "id": 3, "username": "jthomas", "password": "test" }
+  ],
+  "tunit": [
+    { "id": 1, "tunumext": "6500000203", "huanz": 7, "driver": "1234", "lplate": "HD-LV-123", "fotoanz": 0 },
+    { "id": 2, "tunumext": "6500000204", "huanz": 7, "driver": "1234", "lplate": "HD-LV-123", "fotoanz": 0 },
+    { "id": 3, "tunumext": "6500000205", "huanz": 7, "driver": "1234", "lplate": "HD-LV-123", "fotoanz": 0 },
+    { "id": 4, "tunumext": "6500000206", "huanz": 7, "driver": "1234", "lplate": "HD-LV-123", "fotoanz": 0 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
